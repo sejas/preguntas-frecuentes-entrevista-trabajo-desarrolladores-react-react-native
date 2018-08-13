@@ -15,7 +15,7 @@ Debemos tener en cuenta que los mejores candidatos son capaces de **transmitir o
 4. ### ¿Estás familiarizado con Flux?
 5. ### ¿Qué son los componentes Stateless?
 6. ### ¿Has utilizado alguna vez Higher Order Components (HOCs)?¿Podrías darnos algún ejemplo?
-7. ### Diferencisa entre Key y Refs en React.
+7. ### Diferencias entre Key y Refs en React.
 8. ### Verdadero o Falso y ¿por qué? : React incentiva la herencia vs la composición.
 
 

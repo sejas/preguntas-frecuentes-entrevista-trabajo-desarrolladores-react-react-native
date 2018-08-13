@@ -38,7 +38,7 @@ Founder of [Baulen](https://baulen.com) and [JSSchool](https://jsschool.es)
 
 I developed software for large companies such as Telefonica, BlackBerry, Randstad, General Electric, Udacity and Pernod Ricard.
 
-I love learning new things and sharing my knowledge through open source.
+I love learning new things and sharing them through open source.
 -  [![Twitter](https://raw.githubusercontent.com/adamfairhead/webicons/master/webicons/webicon-twitter-s.png) @antoniosejas](http://bit.ly/2A1yeOT)
 
 -  [ ![Medium](https://raw.githubusercontent.com/adamfairhead/webicons/master/webicons/webicon-medium-s.png)         @sejas](http://bit.ly/2NyXDBw)

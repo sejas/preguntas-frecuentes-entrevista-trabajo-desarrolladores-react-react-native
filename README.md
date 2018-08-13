@@ -27,8 +27,9 @@ Debemos tener en cuenta que los mejores candidatos son capaces de **transmitir o
 5. ### ¿Qué otras librerías crees conveniente utilizar?
 
 
+<br /><br /><br />
 
-### About the Author
+# About the author
 [Antonio Sejas](https://sejas.es) is a Remote React Native & FullStack Developer, Computer Engineer (UPM), Mongo Developer Certified (MongoDB University).
 
 Mentor of React @Udacity and React, Vue, and NodeJS Trainer.
@@ -45,3 +46,4 @@ I love learning new things and sharing my knowledge through open source.
 -  [![Linkedin](https://raw.githubusercontent.com/adamfairhead/webicons/master/webicons/webicon-linkedin-s.png) antoniosejas](http://bit.ly/2LghNDK)
 
 - Website: [https://sejas.es](https://sejas.es)
+
